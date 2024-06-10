@@ -1,1 +1,1 @@
-import{a}from"https://sina0043.github.io/sawda_ssr/";import"https://sina0043.github.io/sawda_ssr/";export default a();
+import{a}from"./chunk-NUQBB5TU.js";import"./chunk-RVFOIZLJ.js";export default a();
