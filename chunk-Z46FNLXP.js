@@ -1,7 +1,7 @@
 import{a as q}from"./chunk-NUQBB5TU.js";import{s as g,y as u}from"./chunk-OX5PZ6JO.js";import{Ub as p,Xa as n,fa as o,ub as l,vb as d,wb as m}from"./chunk-CEJEKODL.js";import{g as y}from"./chunk-RVFOIZLJ.js";var i=y(q());var T=(()=>{let a=class a{constructor(t){this.browserService=t,this.locations=[[35.3119,46.9964],[35.311152474759936,47.00108613188733],[35.31094235450366,46.986623662207144],[35.320467257721496,46.99349011669805],[35.32689851459618,47.01516109172433],[35.32273183881013,46.97370487083354],[35.338907142943945,46.985120352735905],[35.29982879685737,46.967782552906954],[35.29051163725103,47.021941714167056],[35.2826647761545,46.984777028807514],[35.264235675691154,47.007178837254536],[35.25470415406881,47.030524783101384],[35.31944277648517,47.01636090758903]],this.distanceOption=[],this.closestOptions=[],this.closestOptionsNoRepeat=[],this.closestMarker=[]}ngOnInit(){this.browserService.isBrowser()}ngAfterViewInit(){if(this.browserService.isBrowser()){this.map=i.map("map").setView([35.3119,46.9964],12),i.tileLayer("https://tile.openstreetmap.org/{z}/{x}/{y}.png",{maxZoom:19,attribution:"\xA9 OpenStreetMap"}).addTo(this.map);for(let t=0;t<this.locations.length;t++)i.marker([this.locations[t][0],this.locations[t][1]],{icon:i.divIcon({html:`
             <div class="map-options position-relative">
               <div class="custom-marker h-c-2 bg-g d-flex align-items-center position-relative w-f-c" style="border: 0.2cqmax solid white;border-radius: 2cqmax;padding: 0.18cqmax 0 0.2cqmax 0.1cqmax;box-shadow: rgba(9, 30, 66, 0.25) 0px 4px 8px -2px, rgba(9, 30, 66, 0.08) 0px 0px 0px 1px;">
-                  <img src="https://github.com/sina0043/sawda_ssr/assets/img/advertisings-list/car-map.png" alt="" class="w-c-15 h-c-15 b-ra-50">
+                  <img src="https://sina0043.github.io/sawda_ssr/assets/img/advertisings-list/car-map.png" alt="" class="w-c-15 h-c-15 b-ra-50">
                   <span class="ma-x-025 d-flex" style="margin-top: 0.1cqmax;">
                       <span class="f-s-075 text-white">3200</span>
                       <span class="f-s-075 text-white">$</span>
@@ -10,14 +10,14 @@ import{a as q}from"./chunk-NUQBB5TU.js";import{s as g,y as u}from"./chunk-OX5PZ6
               <div class="mini-card bg-white pa-05 b-ra-06 w-f-c ma-t-025 d-none" style="border:0.1cqmax solid #FED215;width:17cqmax;">
                   <div class="d-flex">
                       <div class="w-p-45">
-                        <img src="https://github.com/sina0043/sawda_ssr/assets/img/advertisings-list/car-map.png" alt="" class="b-ra-04 w-p-100">
+                        <img src="https://sina0043.github.io/sawda_ssr/assets/img/advertisings-list/car-map.png" alt="" class="b-ra-04 w-p-100">
                       </div>
                       <div class="w-c-1"></div>
                       <div class="w-p-55">
                         <div class="d-flex h-p-100 flex-wrap">
                           <div class="d-flex align-items-center justify-content-between w-p-100">
                               <span class="f-s-1 title o-dots">BMW 510</span>
-                              <img src="https://github.com/sina0043/sawda_ssr/assets/img/chat/bonga.png" alt="" class="w-c-2">
+                              <img src="https://sina0043.github.io/sawda_ssr/assets/img/chat/bonga.png" alt="" class="w-c-2">
                           </div>
                           <div class="d-flex align-items-center w-p-100">
                               <div class="w-p-40 o-dots">
@@ -29,12 +29,12 @@ import{a as q}from"./chunk-NUQBB5TU.js";import{s as g,y as u}from"./chunk-OX5PZ6
                           </div>
                           <div class="d-flex align-items-center justify-content-between align-self-end w-p-100">
                               <div class="d-flex align-items-center w-p-50">
-                                  <img src="https://github.com/sina0043/sawda_ssr/assets/img/chat/date.png" alt="" class="w-c-1">
+                                  <img src="https://sina0043.github.io/sawda_ssr/assets/img/chat/date.png" alt="" class="w-c-1">
                                   <div class="w-c-025"></div>
                                   <span class="f-s-075 t-l-g o-dots" style="margin-top: 0.1cqmax;">2020</span>
                               </div>
                               <div class="d-flex align-items-center justify-content-end w-p-50">
-                                  <img src="https://github.com/sina0043/sawda_ssr/assets/img/chat/color.png" alt="" class="w-c-1">
+                                  <img src="https://sina0043.github.io/sawda_ssr/assets/img/chat/color.png" alt="" class="w-c-1">
                                   <div class="w-c-025"></div>
                                   <span class="f-s-075 t-l-g o-dots" style="margin-top: 0.1cqmax;">2 Pics</span>
                               </div>
