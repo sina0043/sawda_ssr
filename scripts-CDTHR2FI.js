@@ -86,7 +86,7 @@ https://sweetalert2.github.io/#ajax-request`),function(g){(!g.target||typeof g.t
                                     <div replyId=${Ue.getAttribute("replyId")} class="reply-text bg-gold d-flex align-items-center justify-content-center pa-x-1 pa-x-md-1 ma-t-033 ma-t-md-033" style="position:absolute;margin-left: auto;min-height: 3cqmax;max-width: 30%;border-radius: 1cqmax;opacity: 0.5;cursor: pointer;">
                                         <p class="mb-0 f-s-md-2 f-s-1 text-mygrayLight ma-t-05 ma-t-md-05" style="text-overflow: ellipsis;white-space: nowrap;overflow: hidden;">${Ue.querySelector("p").innerText}</p>
                                     </div>
-                                    <img src="../../../../assets/img/chat/reply2.png" alt="" class="reply-img w-c-6 w-c-md-10" style="position: absolute;width: 6cqmax;">
+                                    <img src="https://sina0043.github.io/sawda_ssr/assets/img/chat/reply2.png" alt="" class="reply-img w-c-6 w-c-md-10" style="position: absolute;width: 6cqmax;">
                                 </div>
                                 <div class="message company bg-gold d-flex align-items-center justify-content-center flex-column pa-x-1 pa-x-md-1 ma-t-033 ma-t-md-033" style="width: fit-content;margin-left: auto;min-height: 3cqmax;max-width: 45%;cursor: pointer;" replyId=${y.value[0]+y.value[y.value.length-1]+Et(0,1e12)} distanceTop=${z.scrollTop}>
                                     <p class="mb-0 f-s-md-2 f-s-1 text-mygrayLight" style="margin-top: 0.8cqmax">${y.value}</p>
@@ -98,28 +98,28 @@ https://sweetalert2.github.io/#ajax-request`),function(g){(!g.target||typeof g.t
                                             <div class="curser-pointer d-flex align-items-center justify-content-around border-bottom">
                                                 <p class="mb-0 f-s-md-2 f-s-1 text-mygrayLight ma-t-05 ma-t-md-05">Reply</p>
                                                 <div class="w-c-6"></div>
-                                                <img src="../../../../assets/img/chat/reply.png" alt="" class="rotate w-c-15 w-c-md-25">
+                                                <img src="https://sina0043.github.io/sawda_ssr/assets/img/chat/reply.png" alt="" class="rotate w-c-15 w-c-md-25">
                                             </div>
                                         </div>
                                         <div class="copy">
                                             <div class="curser-pointer d-flex align-items-center justify-content-around border-bottom">
                                                 <p class="mb-0 f-s-md-2 f-s-1 text-mygrayLight ma-t-05 ma-t-md-05">Copy</p>
                                                 <div class="w-c-6"></div>
-                                                <img src="../../../../assets/img/chat/copy.png" alt="" class="rotate w-c-15 w-c-md-25">
+                                                <img src="https://sina0043.github.io/sawda_ssr/assets/img/chat/copy.png" alt="" class="rotate w-c-15 w-c-md-25">
                                             </div>
                                         </div>
                                         <div class="edite">
                                             <div class="curser-pointer d-flex align-items-center justify-content-around border-bottom">
                                                 <p class="mb-0 f-s-md-2 f-s-1 text-mygrayLight ma-t-05 ma-t-md-05">Edite</p>
                                                 <div class="w-c-6 w-c-md-6"></div>
-                                                <img src="../../../../assets/img/chat/edite.png" alt="" class="rotate ma-x-033 ma-x-md-033 w-c-125 w-c-md-25">
+                                                <img src="https://sina0043.github.io/sawda_ssr/assets/img/chat/edite.png" alt="" class="rotate ma-x-033 ma-x-md-033 w-c-125 w-c-md-25">
                                             </div>
                                         </div>
                                         <div class="delete">
                                             <div class="curser-pointer d-flex align-items-center justify-content-around">
                                                 <p class="mb-0 f-s-md-2 f-s-1 text-mygrayLight ma-t-05 ma-t-md-05">Delete</p>
                                                 <div class="w-c-6 w-c-md-6"></div>
-                                                <img src="../../../../assets/img/chat/delete.png" alt="" class="rotate ma-x-033 ma-x-md-033 w-c-125 w-c-md-25">
+                                                <img src="https://sina0043.github.io/sawda_ssr/assets/img/chat/delete.png" alt="" class="rotate ma-x-033 ma-x-md-033 w-c-125 w-c-md-25">
                                             </div>
                                         </div>
                                     </div>
@@ -131,7 +131,7 @@ https://sweetalert2.github.io/#ajax-request`),function(g){(!g.target||typeof g.t
                                     <div replyId=${Ue.getAttribute("replyId")} class="reply-text border d-flex align-items-center justify-content-center pa-x-1 pa-x-md-1 ma-t-033 ma-t-md-033" style="position:absolute;top: -4.5cqmax;margin-left: auto;min-height: 3cqmax;max-width: 30%;border-radius: 1cqmax;opacity: 0.5;cursor: pointer;">
                                         <p class="mb-0 f-s-md-2 f-s-1 text-mygrayLight ma-t-05 ma-t-md-05" style="text-overflow: ellipsis;white-space: nowrap;overflow: hidden;">${Ue.querySelector("p").innerText}</p>
                                     </div>
-                                    <img src="../../../../assets/img/chat/reply2.png" alt="" class="reply-img w-c-6 w-c-md-10" style="position: absolute;top: -1cqmax;">
+                                    <img src="https://sina0043.github.io/sawda_ssr/assets/img/chat/reply2.png" alt="" class="reply-img w-c-6 w-c-md-10" style="position: absolute;top: -1cqmax;">
                                 </div>
                                 <div class="message company bg-gold d-flex align-items-center justify-content-center flex-column pa-x-1 pa-x-md-1 ma-t-033 ma-t-md-033" style="width: fit-content;margin-left: auto;min-height: 3cqmax;max-width: 45%;cursor: pointer;" replyId=${y.value[0]+y.value[y.value.length-1]+Et(0,1e12)} distanceTop=${z.scrollTop}>
                                     <p class="mb-0 f-s-md-2 f-s-1 text-mygrayLight" style="margin-top: 0.8cqmax">${y.value}</p>
@@ -143,28 +143,28 @@ https://sweetalert2.github.io/#ajax-request`),function(g){(!g.target||typeof g.t
                                             <div class="curser-pointer d-flex align-items-center justify-content-around border-bottom">
                                                 <p class="mb-0 f-s-md-2 f-s-1 text-mygrayLight ma-t-05 ma-t-md-05">Reply</p>
                                                 <div class="w-c-6 w-c-md-6"></div>
-                                                <img src="../../../../assets/img/chat/reply.png" alt="" class="rotate w-c-15 w-c-md-25">
+                                                <img src="https://sina0043.github.io/sawda_ssr/assets/img/chat/reply.png" alt="" class="rotate w-c-15 w-c-md-25">
                                             </div>
                                         </div>
                                         <div class="copy">
                                             <div class="curser-pointer d-flex align-items-center justify-content-around border-bottom">
                                                 <p class="mb-0 f-s-md-2 f-s-1 text-mygrayLight ma-t-05 ma-t-md-05">Copy</p>
                                                 <div class="w-c-6 w-c-md-6"></div>
-                                                <img src="../../../../assets/img/chat/copy.png" alt="" class="rotate w-c-15 w-c-md-25">
+                                                <img src="https://sina0043.github.io/sawda_ssr/assets/img/chat/copy.png" alt="" class="rotate w-c-15 w-c-md-25">
                                             </div>
                                         </div>
                                         <div class="edite">
                                             <div class="curser-pointer d-flex align-items-center justify-content-around border-bottom">
                                                 <p class="mb-0 f-s-md-2 f-s-1 text-mygrayLight ma-t-05 ma-t-md-05">Edite</p>
                                                 <div class="w-c-6 w-c-md-6"></div>
-                                                <img src="../../../../assets/img/chat/edite.png" alt="" class="rotate ma-x-033 ma-x-md-033 w-c-15 w-c-md-25">
+                                                <img src="https://sina0043.github.io/sawda_ssr/assets/img/chat/edite.png" alt="" class="rotate ma-x-033 ma-x-md-033 w-c-15 w-c-md-25">
                                             </div>
                                         </div>
                                         <div class="delete">
                                             <div class="curser-pointer d-flex align-items-center justify-content-around">
                                                 <p class="mb-0 f-s-md-2 f-s-1 text-mygrayLight ma-t-05 ma-t-md-05">Delete</p>
                                                 <div class="w-c-6 w-c-md-6"></div>
-                                                <img src="../../../../assets/img/chat/delete.png" alt="" class="rotate ma-x-033 ma-x-md-033 w-c-15 w-c-md-25">
+                                                <img src="https://sina0043.github.io/sawda_ssr/assets/img/chat/delete.png" alt="" class="rotate ma-x-033 ma-x-md-033 w-c-15 w-c-md-25">
                                             </div>
                                         </div>
                                     </div>
@@ -182,28 +182,28 @@ https://sweetalert2.github.io/#ajax-request`),function(g){(!g.target||typeof g.t
                                         <div class="curser-pointer d-flex align-items-center justify-content-around border-bottom">
                                             <p class="mb-0 f-s-md-2 f-s-1 text-mygrayLight ma-t-05 ma-t-md-05">Reply</p>
                                             <div class="w-c-6 w-c-md-6"></div>
-                                            <img src="../../../../assets/img/chat/reply.png" alt="" class="rotate w-c-15 w-c-md-25">
+                                            <img src="https://sina0043.github.io/sawda_ssr/assets/img/chat/reply.png" alt="" class="rotate w-c-15 w-c-md-25">
                                         </div>
                                     </div>
                                     <div class="copy">
                                         <div class="curser-pointer d-flex align-items-center justify-content-around border-bottom">
                                             <p class="mb-0 f-s-md-2 f-s-1 text-mygrayLight ma-t-05 ma-t-md-05">Copy</p>
                                             <div class="w-c-6 w-c-md-6"></div>
-                                            <img src="../../../../assets/img/chat/copy.png" alt="" class="rotate w-c-15 w-c-md-25">
+                                            <img src="https://sina0043.github.io/sawda_ssr/assets/img/chat/copy.png" alt="" class="rotate w-c-15 w-c-md-25">
                                         </div>
                                     </div>
                                     <div class="edite">
                                         <div class="curser-pointer d-flex align-items-center justify-content-around border-bottom">
                                             <p class="mb-0 f-s-md-2 f-s-1 text-mygrayLight ma-t-05 ma-t-md-05">Edite</p>
                                             <div class="w-c-6 w-c-md-6"></div>
-                                            <img src="../../../../assets/img/chat/edite.png" alt="" class="rotate ma-x-033 ma-x-md-033 w-c-15 w-c-md-25">
+                                            <img src="https://sina0043.github.io/sawda_ssr/assets/img/chat/edite.png" alt="" class="rotate ma-x-033 ma-x-md-033 w-c-15 w-c-md-25">
                                         </div>
                                     </div>
                                     <div class="delete">
                                         <div class="curser-pointer d-flex align-items-center justify-content-around">
                                             <p class="mb-0 f-s-md-2 f-s-1 text-mygrayLight ma-t-05 ma-t-md-05">Delete</p>
                                             <div class="w-c-6 w-c-md-6"></div>
-                                            <img src="../../../../assets/img/chat/delete.png" alt="" class="rotate ma-x-033 ma-x-md-033 w-c-15 w-c-md-25">
+                                            <img src="https://sina0043.github.io/sawda_ssr/assets/img/chat/delete.png" alt="" class="rotate ma-x-033 ma-x-md-033 w-c-15 w-c-md-25">
                                         </div>
                                     </div>
                                 </div>
@@ -214,19 +214,19 @@ https://sweetalert2.github.io/#ajax-request`),function(g){(!g.target||typeof g.t
                                 <div class="show-opinions">
                                     <div class="opinions d-flex align-items-center" style="background-color: #CDCDCD;position: absolute;left: 0cqmax;width: fit-content;border-radius: 2cqmax;padding: 0.2cqmax;">
                                         <div class="opinion d-flex align-items-center justify-content-center curser-pointer" style="height: 2cqmax;width: 2cqmax;background-color: #CDCDCD;border-radius: 50%;margin-right: 0.3cqmax;">
-                                            <img src="../../../../assets/img/chat/heart.png" alt="" style="width: 1.4cqmax;">
+                                            <img src="https://sina0043.github.io/sawda_ssr/assets/img/chat/heart.png" alt="" style="width: 1.4cqmax;">
                                         </div>
                                         <div class="opinion d-flex align-items-center justify-content-center curser-pointer" style="height: 2cqmax;width: 2cqmax;background-color: #CDCDCD;border-radius: 50%;margin-right: 0.3cqmax;">
-                                            <img src="../../../../assets/img/chat/like.png" alt="" style="width: 1.3cqmax;">
+                                            <img src="https://sina0043.github.io/sawda_ssr/assets/img/chat/like.png" alt="" style="width: 1.3cqmax;">
                                         </div>
                                         <div class="opinion d-flex align-items-center justify-content-center curser-pointer" style="height: 2cqmax;width: 2cqmax;background-color: #CDCDCD;border-radius: 50%;margin-right: 0.3cqmax;">
-                                            <img src="../../../../assets/img/chat/dislike.png" alt="" style="width: 1.3cqmax;">
+                                            <img src="https://sina0043.github.io/sawda_ssr/assets/img/chat/dislike.png" alt="" style="width: 1.3cqmax;">
                                         </div>
                                         <div class="opinion d-flex align-items-center justify-content-center curser-pointer" style="height: 2cqmax;width: 2cqmax;background-color: #CDCDCD;border-radius: 50%;margin-right: 0.3cqmax;">
-                                            <img src="../../../../assets/img/chat/exclamation_mark.png" alt="" style="width: 1cqmax;">
+                                            <img src="https://sina0043.github.io/sawda_ssr/assets/img/chat/exclamation_mark.png" alt="" style="width: 1cqmax;">
                                         </div>
                                         <div class="opinion d-flex align-items-center justify-content-center curser-pointer" style="height: 2cqmax;width: 2cqmax;background-color: #CDCDCD;border-radius: 50%;">
-                                            <img src="../../../../assets/img/chat/question.png" alt="" style="width: 0.7cqmax;">
+                                            <img src="https://sina0043.github.io/sawda_ssr/assets/img/chat/question.png" alt="" style="width: 0.7cqmax;">
                                         </div>
                                     </div>
                                     <div class="small-circle-opinions" style=" width: 0.4cqmax;height: 0.4cqmax;background-color: #CDCDCD;border-radius: 50%;position: absolute;"></div>
@@ -234,7 +234,7 @@ https://sweetalert2.github.io/#ajax-request`),function(g){(!g.target||typeof g.t
                                 </div>
                                 <div class="show-opinion">
                                     <div class="single-opinion d-flex align-items-center justify-content-center" style="background-color: #fed215;position: absolute;width: 2cqmax;height: 2cqmax;border-radius: 2cqmax;padding: 0.2cqmax;">
-                                        <img src="../../../../assets/img/chat/question.png" alt="">
+                                        <img src="https://sina0043.github.io/sawda_ssr/assets/img/chat/question.png" alt="">
                                     </div>
                                     <div class="small-circle-opinion" style="width: 0.3cqmax;height: 0.3cqmax;background-color: #fed215;border-radius: 50%;position: absolute;"></div>
                                     <div class="big-circle-opinion" style="width: 0.6cqmax;height: 0.6cqmax;background-color: #fed215;border-radius: 50%;position: absolute;"></div>
@@ -248,21 +248,21 @@ https://sweetalert2.github.io/#ajax-request`),function(g){(!g.target||typeof g.t
                                             <div class="curser-pointer d-flex align-items-center justify-content-around border-bottom">
                                                 <p class="mb-0 f-s-md-2 f-s-1 text-mygrayLight ma-t-05 ma-t-md-05">Reply</p>
                                                 <div class="w-c-6 w-c-md-6"></div>
-                                                <img src="../../../../assets/img/chat/reply.png" alt="" class="rotate w-c-15 w-c-md-25">
+                                                <img src="https://sina0043.github.io/sawda_ssr/assets/img/chat/reply.png" alt="" class="rotate w-c-15 w-c-md-25">
                                             </div>
                                         </div>
                                         <div class="copy">
                                             <div class="curser-pointer d-flex align-items-center justify-content-around border-bottom">
                                                 <p class="mb-0 f-s-md-2 f-s-1 text-mygrayLight ma-t-05 ma-t-md-05">Copy</p>
                                                 <div class="w-c-6 w-c-md-6"></div>
-                                                <img src="../../../../assets/img/chat/copy.png" alt="" class="rotate w-c-15 w-c-md-25">
+                                                <img src="https://sina0043.github.io/sawda_ssr/assets/img/chat/copy.png" alt="" class="rotate w-c-15 w-c-md-25">
                                             </div>
                                         </div>
                                         <div class="report">
                                             <div class="curser-pointer d-flex align-items-center justify-content-around">
                                                 <p class="mb-0 f-s-md-2 f-s-1 text-danger ma-t-05 ma-t-md-05">Report</p>
                                                 <div class="w-c-6 w-c-md-6"></div>
-                                                <img src="../../../../assets/img/chat/report.png" alt="" class="rotate ma-x-033 ma-x-md-033 w-c-15 w-c-md-25">
+                                                <img src="https://sina0043.github.io/sawda_ssr/assets/img/chat/report.png" alt="" class="rotate ma-x-033 ma-x-md-033 w-c-15 w-c-md-25">
                                             </div>
                                         </div>
                                     </div>

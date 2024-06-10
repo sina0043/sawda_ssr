@@ -17,7 +17,7 @@ import{a as q}from"./chunk-NUQBB5TU.js";import{s as g,y as u}from"./chunk-OX5PZ6
                         <div class="d-flex h-p-100 flex-wrap">
                           <div class="d-flex align-items-center justify-content-between w-p-100">
                               <span class="f-s-1 title o-dots">BMW 510</span>
-                              <img src="../../../../assets/img/chat/bonga.png" alt="" class="w-c-2">
+                              <img src="https://sina0043.github.io/sawda_ssr/assets/img/chat/bonga.png" alt="" class="w-c-2">
                           </div>
                           <div class="d-flex align-items-center w-p-100">
                               <div class="w-p-40 o-dots">
@@ -29,12 +29,12 @@ import{a as q}from"./chunk-NUQBB5TU.js";import{s as g,y as u}from"./chunk-OX5PZ6
                           </div>
                           <div class="d-flex align-items-center justify-content-between align-self-end w-p-100">
                               <div class="d-flex align-items-center w-p-50">
-                                  <img src="../../../../assets/img/chat/date.png" alt="" class="w-c-1">
+                                  <img src="https://sina0043.github.io/sawda_ssr/assets/img/chat/date.png" alt="" class="w-c-1">
                                   <div class="w-c-025"></div>
                                   <span class="f-s-075 t-l-g o-dots" style="margin-top: 0.1cqmax;">2020</span>
                               </div>
                               <div class="d-flex align-items-center justify-content-end w-p-50">
-                                  <img src="../../../../assets/img/chat/color.png" alt="" class="w-c-1">
+                                  <img src="https://sina0043.github.io/sawda_ssr/assets/img/chat/color.png" alt="" class="w-c-1">
                                   <div class="w-c-025"></div>
                                   <span class="f-s-075 t-l-g o-dots" style="margin-top: 0.1cqmax;">2 Pics</span>
                               </div>
