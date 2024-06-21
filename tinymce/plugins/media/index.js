@@ -1,4 +1,4 @@
-// Exports the "https://sina0043.github.io/sawda_ssr/media" plugin for usage with module loaders
+// Exports the "media" plugin for usage with module loaders
 // Usage:
 //   CommonJS:
 //     require('tinymce/plugins/media')
