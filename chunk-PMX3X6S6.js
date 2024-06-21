@@ -1,1 +1,1 @@
-import{La as a}from"./chunk-FFECU66B.js";import"./chunk-IXHN3QM3.js";import"./chunk-ZHB5NX4Y.js";import"./chunk-CM677TLH.js";export{a as AdCardComponent};
+import{La as a}from"https://sina0043.github.io/sawda_ssr/chunk-FFECU66B.js";import"https://sina0043.github.io/sawda_ssr/chunk-IXHN3QM3.js";import"https://sina0043.github.io/sawda_ssr/chunk-ZHB5NX4Y.js";import"https://sina0043.github.io/sawda_ssr/chunk-CM677TLH.js";export{a as AdCardComponent};
